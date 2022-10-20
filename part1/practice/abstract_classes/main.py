@@ -95,7 +95,7 @@ class Electroscooter(Transport):
         print('Двигатель скутера запущен')
 
     def stop_engine(self):
-        print('Двигатель лодки остановлен')
+        print('Двигатель скутера остановлен')
 
     def move(self):
         print('Скутер двигается')
